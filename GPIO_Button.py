@@ -1,4 +1,4 @@
-# GPIO LED Light With Button
+# GPIO Button
 
 from gpiozero import Button
 button = Button(2)
