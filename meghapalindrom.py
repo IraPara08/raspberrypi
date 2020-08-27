@@ -18,7 +18,7 @@ else:
     print("This is not a palindrome:(")
 
 #TA-DA
-print("Ta-Da !")
+print("Ta-Da!")
 
 
                   
